@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136346805334",
+    "firebase_url": "https://changebook-42215.firebaseio.com",
+    "project_id": "changebook-42215",
+    "storage_bucket": "changebook-42215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136346805334:android:d336fb24a4e82bb42047f7",
+        "android_client_info": {
+          "package_name": "com.seyittemel.chancebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136346805334-2l4g1465lo3vcboccf4f6g81h8km8bbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQAWAp1jTR26e2V_rFMXsnOH71b-yMiFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136346805334-2l4g1465lo3vcboccf4f6g81h8km8bbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
